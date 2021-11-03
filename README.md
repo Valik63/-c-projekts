@@ -2,18 +2,18 @@
 ***
 
 # Projekta nosaukums
-pulksteņu kalkulators
+Mīnu meklētāju spēle
 
 ## Apraksts
-Ja vēlamies uzzināt, cik stundas vai minūtes ir ievadītajās sekundēs, tad vajag ievadit konsolē vajadzīgo sekunžu skaitu, tad programma apstrādā ievadītos datus un parāda jums rezultātu. Piemēram, ja ievadīsim 6000 sekundes, tad programma rādīs, ka 10000 sekundēs ir 1 stunda, 40 minūtes un 00 sekundes (1:40:00)
+Spēles mērķis ir atvērt visas šūnas, kurās nav mīnu.
+Spēlētājs atver šūnas, cenšoties neatvērt šūnu ar mīnu.
+Atverot visas "neizraktās" šūnas, spēlētājs uzvar.
 
 ## Galvenās funkcijas
-Skaitļu ievadīšana (sekundes skaitu);
-Datus apstrādāšana;
-Rezultāta izvadīšana;
+
   
 ## Izmantotās tehnoloģijas
 C++
 
 ## Izmantotie avoti
-Es izmantošu grāmatu, informāciju no stundam
+Es izmantošu grāmatu, informāciju no stundam un informāciju par, kuru izlasīšu par savu temu
