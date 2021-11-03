@@ -16,4 +16,4 @@ Atverot visas "neizraktās" šūnas, spēlētājs uzvar.
 C++
 
 ## Izmantotie avoti
-Es izmantošu grāmatu, informāciju no stundam un informāciju par, kuru izlasīšu par savu temu
+Es izmantošu grāmatu, informāciju no stundam un informāciju par savu temu, kuru izlasīšu interneta
